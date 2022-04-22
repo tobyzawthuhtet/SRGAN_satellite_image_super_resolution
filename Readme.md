@@ -15,4 +15,5 @@ The descriptions of principal files in this project are introduced as follows:
 * tensorflow
 * matplotlib
 
-
+## Predicted Results 
+<img src="sample.png" width="500" height="150" > 
